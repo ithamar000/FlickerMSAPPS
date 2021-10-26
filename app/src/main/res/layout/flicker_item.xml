@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="150dp"
+    android:layout_height="150dp"
+    android:padding="5dp">
+
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_centerInParent="true"
+        android:id="@+id/iv_photo_item"
+        android:src="@mipmap/ic_launcher"
+        android:layout_gravity="center"
+        android:padding="3dp"/>
+
+</LinearLayout>
